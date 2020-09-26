@@ -7,14 +7,11 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    font-family: 'Montserrat', sans-serif;
+    background: #000000;
 }
 
-.outline {
-    border: 3px dotted red;
-}
 
-nav {
-}
 
 header {
     height: 200px;
